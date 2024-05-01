@@ -1,0 +1,3 @@
+set field #username to admin
+set field #password to 123
+click element #login-button

@@ -29,7 +29,7 @@ function Form({
       onSubmit={onSubmit}
       style={{ display: "flex", flexDirection: "column" }}
     >
-      <img src={"example.png"} />
+      <img src={"form_img.png"} />
       <label htmlFor="username">Username</label>
       <input
         id="username"
